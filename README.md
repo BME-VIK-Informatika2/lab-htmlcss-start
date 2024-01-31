@@ -6,7 +6,7 @@ A laborra felkészüléshez olvasd el a segédletet és próbáld meg megválasz
 ## A labor teljesítése
 Ebbe a könyvtárba készítsd el a **html/css labor** megoldásait. A feladatok elvégzésével a cél egy, az alábbi hasonló, összetett megoldásokat használó HTML oldal elkészítése. 
 
-![](images/image1.png)
+![](docs/image1.jpg)
 
 A labor teljesítéséhez a jelenléten felül az 1-4 feladatok elkészítésére van szükség. A gyakorlat két közösen megoldott feladattal indul, a további feladatokat önállóan kell megoldani.
 
@@ -39,7 +39,7 @@ A gyakorlat során weboldalakat fogunk elkészíteni, melyeket böngészőben fo
 
 - Navigáljunk el a repoban található `index.html` fájlhoz.
 
-![](images/image2.png)
+![](docs/image2.jpg)
 
 ### :bookmark_tabs: Beadandó
 
@@ -51,7 +51,7 @@ A gyakorlat során weboldalakat fogunk elkészíteni, melyeket böngészőben fo
 
 Ebben a feladatban egy fix szélességű, fejléccel és két hasábos elrendezéssel rendelkező oldal készítése a cél. A fejlécbe az oldal címe, a bal oldali hasábba a fő tartalma, a jobb oldali hasábba pedig segédanyagok fognak kerülni. Valahogy így:
 
-![](images/image3.png)
+![](docs/image3.jpg)
 
 Ezt négy divvel fogjuk megvalósítani: egy-egy div kell a fejlécnek, a tartalomnak és a segédanyagoknak, valamint szükségünk lesz egy keret divre, ami tartalmazza az előző hármat. Ez a keret div szolgál arra, hogy az oldalnak fix szélességet adjon és középre rendezze a tartalmát.
 
@@ -64,7 +64,7 @@ Első lépésben a weboldal struktúráját készítjük el. Ennek a leírásár
 - Helyezz el a keretben további három divet, rendre `fejlec`, `tartalom` és `jobbmenu` néven. A divekben helyezd el szövegként a div nevét.
 - A fenti három div után helyezz el egy sortörés címkét (`br`), úgy hogy a `style` attribútuma `clear: both` értékű legyen – ennek szerepe az, hogy a dokumentum további részeiben megszűntesse a `tartalom` és `jobbmenu` divek folyó stílusának mellékhatásait, mely stílust egy későbbi feladatban fogjuk beállítani.
 
-![](images/image4.png)
+![](docs/image4.jpg)
 
 ### Hasábok pozícionálása – az oldal megjelenésének beállítása
 
@@ -82,7 +82,7 @@ A második nagyobb lépésben szabályozni fogjuk, hogy a fenti három logikai e
 - A tartalmat rendezzd balra, a jobb-menüt pedig jobbra `float` tulajdonságuk `left` illetve `right` értékre állításával.
 - Nézd meg az eredményt egy böngészőben.
 
-![](images/image5.png)
+![](docs/image5.jpg)
 
 ### :bookmark_tabs: Beadandó
 
@@ -103,7 +103,7 @@ Az oldal tartalmi részén cikkeket fogunk elhelyezni. Minden cikk egy darab má
 > [!TIP]
 > Másolj egy online hírújságból!
 
-![](images/image6.png)
+![](docs/image6.jpg)
 
 ### A cikkek stílusának beállítása
 
@@ -116,7 +116,7 @@ Készítsünk keretet, önálló háttérszínt és némi formázást a cikkekne
   - a felső margót (`margin-top`) szintén 10 pixelesre.
 - Nézd meg böngészőben az eredményt.
 
-![](images/image7.png)
+![](docs/image7.jpg)
 
 ### :bookmark_tabs: Beadandó
 
@@ -137,7 +137,7 @@ Készítsünk keretet, önálló háttérszínt és némi formázást a cikkekne
   - Töltsd ki a `title` és `alt` attribútumokat értelem szerűen.
 - Nézd meg böngészőben az eredményt.
 
-![](images/image8.png)
+![](docs/image8.jpg)
 
 ### :bookmark_tabs: Beadandó
 
@@ -160,7 +160,7 @@ Ebben az opcionális feldataban egy keresőmodult fogunk készíteni. A modulok 
 - Végül tegyél az űrlap aljára egy gombot: ez egy `input` címke, ahol a `type` attribútum értéke `submit`. A gomb feliratát a `value` attribútummal lehet szabályozni.
 - Nézd meg az eredményt a böngészőben.
 
-![](images/image9.png)
+![](docs/image9.jpg)
 
 ### Az oldal alapstílusának beállítása
 
@@ -172,7 +172,7 @@ Ebben az opcionális feladatban további stílusbeállításokat teszünk.
 - A második szintú címsor felső margóját (`margin-top`) vedd 0 pixelesre.
 - Nézd meg az eredményt a böngészőben.
 
-![](images/image10.png)
+![](docs/image10.png)
 
 ### :bookmark_tabs: Beadandó - opcionális
 
