@@ -177,5 +177,5 @@ Ebben az opcionális feladatban további stílusbeállításokat teszünk.
 ### :bookmark_tabs: Beadandó - opcionális
 
 - [ ] Hozz létre egy képernyőképet az oldal tartalmáról! Ügyelj rá, hogy a böngésző címsora is jól látható legyen a képen. 
-- [ ] Mentsd el a képet `feladat-4.png` néven a repository gyökerébe.
+- [ ] Mentsd el a képet `feladat-5.png` néven a repository gyökerébe.
 - [ ] Kommitold a változtatásokat.
