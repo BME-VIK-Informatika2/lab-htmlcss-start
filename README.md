@@ -132,7 +132,7 @@ Készítsünk keretet, önálló háttérszínt és némi formázást a cikkekne
   - Állítsd be a kép `title` és `alt` attribútumát úgy, hogy jól leírja mit ábrázol a kép – ezzel a vakok felolvasó szoftvereinek és a keresőmotoroknak segítünk.
 - Helyezz el fejléccel rendelkező 3x3-es táblázatot az első cikk szövegében. Ehhez használd a `table`, `tr`, `th`, `td` címkéket. (A táblázatnak keretet és belső vonalakat úgy adhatunk, ha CSS-ben a cellákra (`td`) beállítjuk a keret stílusát, vagy pedig használjuk a `table` `border` attribútumát).
 - Az első cikk lemásolásával vagy utánzásával készíts egy második cikket is.
-- A második cikkben jelenítsd meg egy idegen szerveren található képet, melynek elérési útvonala (`url`): [http://m.cdn.blog.hu/gr/greenr/image/idokep/kep17.php.png](http://m.cdn.blog.hu/gr/greenr/image/idokep/kep17.php.png).
+- A második cikkben jelenítsd meg egy idegen szerveren található képet, melynek elérési útvonala (`src`): [http://m.cdn.blog.hu/gr/greenr/image/idokep/kep17.php.png](http://m.cdn.blog.hu/gr/greenr/image/idokep/kep17.php.png).
   - A kép szélességét (`width`) állítsd 600 pixelre.
   - Töltsd ki a `title` és `alt` attribútumokat értelem szerűen.
 - Nézd meg böngészőben az eredményt.
